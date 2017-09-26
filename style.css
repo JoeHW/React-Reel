@@ -16,7 +16,10 @@
     border-radius: 4px;
     font-size: 1.2em;
     font-family: 'Exo 2', sans-serif;
+}
 
+.details {
+  height: 300px
 }
 
 .embed-responsive-item {
@@ -39,15 +42,24 @@
 }
 
 .jumbotron {
-  /*height: 250px;*/
    background-image: url("/images/ciprian-boiciuc-193062.jpg");
-   background-size: 1600px;
-   background-position: 50%;
+   background-size: 1800px;
+   background-position: 55%;
+   height:auto;
+}
 
+.my-4 {
+  width:70%;
+  text-align:left;
+  margin-left:0
 }
 
 .display-3 {
   font-family: 'Audiowide', cursive;
+}
+
+.jtext-small {
+  font-family: 'Freckle Face', cursive;
 }
 
 .fa {
@@ -59,7 +71,6 @@
     margin-top: 50px;
     text-align: center;
     padding-bottom: : 100px;
-
 }
 
 .padding {
@@ -69,6 +80,7 @@
 .media-heading {
   padding: 10px 0;
 }
+
 .media-object {
   margin-top: 10px;
 }
