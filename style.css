@@ -63,14 +63,13 @@
 }
 
 .fa {
-  margin-left: 20px;
+  margin-left: 10px;
+  margin-right: 10px
 }
 
 .social {
-    height: 150px;
-    margin-top: 50px;
+    height: 80px;
     text-align: center;
-    padding-bottom: : 100px;
 }
 
 .padding {
@@ -83,4 +82,16 @@
 
 .media-object {
   margin-top: 10px;
+}
+
+.end {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.bio-text {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.5em;
+    text-align: center;
 }
